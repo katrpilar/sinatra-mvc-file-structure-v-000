@@ -14,3 +14,7 @@ end
 def app
   Rack::Builder.parse_file('config.ru').first
 end
+
+hello
+
+
